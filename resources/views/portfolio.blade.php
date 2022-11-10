@@ -153,6 +153,7 @@
                                     <h2 class="text-uppercase">Codebase Technologies</h2>
                                     <p class="item-intro text-muted"><strong style="font-style: normal;">Fintech and Digital banking platform </strong> with the partnership of Codebase Technologies.</p>
                                     <img class="img-fluid d-block mx-auto" src="{{asset('/assets/img/portfolio/portfolio1.png')}}" alt="..." />
+                                    <a href="https://www.codebtech.com/" target="_" class="btn btn-warning">Go To Website</a>
                                 </div>
                             </div>
                         </div>
@@ -173,6 +174,7 @@
                                     <h2 class="text-uppercase">Netlink</h2>
                                     <p class="item-intro text-muted"><strong style="font-style: normal;">Low Code Development </strong> on the Outsystem platform with the partnership of Netlink.</p>
                                     <img class="img-fluid d-block mx-auto" src="{{asset('/assets/img/portfolio/portfolio2.png')}}" alt="..." />
+                                    <a href="https://www.netlink.com/" target="_" class="btn btn-warning">Go To Website</a>
                                 </div>
                             </div>
                         </div>
@@ -193,6 +195,7 @@
                                     <h2 class="text-uppercase">Panashi</h2>
                                     <p class="item-intro text-muted"><strong style="font-style: normal;">Self Service Kiosk machine </strong> hardware and software with the partnership of Panashi.</p>
                                     <img class="img-fluid d-block mx-auto" src="{{asset('/assets/img/portfolio/portfolio3.png')}}" alt="..." />
+                                    <a href="https://www.panashi.ae/" target="_" class="btn btn-warning">Go To Website</a>
                                 </div>
                             </div>
                         </div>
@@ -213,6 +216,7 @@
                                     <h2 class="text-uppercase">Wizzit</h2>
                                     <p class="item-intro text-muted"><strong style="font-style: normal;">Software based Point of Sale (SoftPOS) </strong> Solution with the partnership of Wizzit International.</p>
                                     <img class="img-fluid d-block mx-auto" src="{{asset('/assets/img/portfolio/portfolio4.png')}}" alt="..." />
+                                    <a href="https://wizzit.com/" target="_" class="btn btn-warning">Go To Website</a>
                                 </div>
                             </div>
                         </div>
@@ -234,6 +238,7 @@
                                     <h2 class="text-uppercase">Internadeks group</h2>
                                     <p class="item-intro text-muted"><strong style="font-style: normal;">Hardware based Point of Sale (POS) </strong> Solution with the partnership of Internadeks group.</p>
                                     <img class="img-fluid d-block mx-auto" src="{{asset('/assets/img/portfolio/portfolio5.png')}}" alt="..." />
+                                    <a href="https://www.nadeksgroup.com/" target="_" class="btn btn-warning">Go To Website</a>
                                 </div>
                             </div>
                         </div>
@@ -254,6 +259,7 @@
                                     <h2 class="text-uppercase">Enterprise Team</h2>
                                     <p class="item-intro text-muted"><strong style="font-style: normal;">Legal Management Solution </strong> with the partnership of Enterprise Team.</p>
                                     <img class="img-fluid d-block mx-auto" src="{{asset('/assets/img/portfolio/portfolio6.png')}}" alt="..." />
+                                    <a href="https://www.eteamid.com/" target="_" class="btn btn-warning">Go To Website</a>
                                 </div>
                             </div>
                         </div>
@@ -274,6 +280,7 @@
                                     <h2 class="text-uppercase">IBIK Software</h2>
                                     <p class="item-intro text-muted"><strong style="font-style: normal;">Multiseat Software for Windows </strong> with the partnership of IBIK Software.</p>
                                     <img class="img-fluid d-block mx-auto" src="{{asset('/assets/img/portfolio/portfolio7.png')}}" alt="..." />
+                                    <a href="https://www.ibik.ru/" target="_" class="btn btn-warning">Go To Website</a>
                                 </div>
                             </div>
                         </div>
@@ -294,6 +301,7 @@
                                     <h2 class="text-uppercase">Lumenore</h2>
                                     <p class="item-intro text-muted"><strong style="font-style: normal;">Business Intelligence and Analytics platform </strong> with the partnership of Lumenore.</p>
                                     <img class="img-fluid d-block mx-auto" src="{{asset('/assets/img/portfolio/portfolio8.png')}}" alt="..." />
+                                    <a href="https://www.lumenore.com/" target="_" class="btn btn-warning">Go To Website</a>
                                 </div>
                             </div>
                         </div>
