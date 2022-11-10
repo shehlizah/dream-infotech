@@ -7,6 +7,10 @@
 
  <!-- Contact-->
 <style>
+
+.gmap_canvas{
+    margin-top: 25px;
+}
     .dbox .icon {
     width: 60px;
     height: 60px;
@@ -105,7 +109,7 @@
 
                 
                 <div class="text-center">
-                    <h2 class="section-heading text-uppercase">Get In Touch</h2>
+                    <h2 class="section-heading text-uppercase">LET'S TALK</h2>
                 </div>
                 @if(session('status'))
                     <div class='alert alert-success'>
@@ -140,6 +144,12 @@
                                 <div class="invalid-feedback" data-sb-feedback="email:required">An email is required.</div>
                                 <div class="invalid-feedback" data-sb-feedback="email:email">Email is not valid.</div>
                             </div>
+
+                            <div class="form-group">
+                                <input class="form-control" name="company" id="company" type="text" placeholder="Company Name"/>
+
+                            </div>
+
                             <div class="form-group mb-md-0">
                                 <!-- Phone number input-->
                                 <input class="form-control" name="phone" id="phone" type="tel" placeholder="Your Phone *" data-sb-validations="required" />

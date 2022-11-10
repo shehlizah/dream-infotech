@@ -11,6 +11,7 @@
     <p>Name:{{ $body['name'] }}</p>
     <p>Email:{{ $body['email'] }}</p>
     <p>Phone No:{{ $body['phone'] }}</p>
+    <p>Company:{{ $body['company'] }}</p>
     <p>Message:{{ $body['message'] }}</p>
 
     <p>Thank you</p>

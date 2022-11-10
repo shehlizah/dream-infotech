@@ -5,63 +5,37 @@
  <!-- About-->
  <section class="margin-top page-section" id="about">
             <div class="container">
+                
                 <div class="text-center">
-                    <h2 class="section-heading text-uppercase">About</h2>
-                    <h3 class="section-subheading text-muted">Armed with long term experience in IT industry we aim to provide services to organization in better use of technology to progress in this fast changing era of technology.</h3>
+                    <h2 class="section-heading text-uppercase">About Us</h2>
                 </div>
-                <ul class="timeline">
-                    <li>
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="{{asset('/assets/img/about/1.jpg')}}" alt="..." /></div>
-                        <div class="timeline-panel">
-                            <div class="timeline-heading">
-                                <h4>2009-2011</h4>
-                                <h4 class="subheading">Our Humble Beginnings</h4>
-                            </div>
-                            <div class="timeline-body"><p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p></div>
-                        </div>
-                    </li>
-                    <li class="timeline-inverted">
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="{{asset('/assets/img/about/2.jpg')}}" alt="..." /></div>
-                        <div class="timeline-panel">
-                            <div class="timeline-heading">
-                                <h4>March 2011</h4>
-                                <h4 class="subheading">An Agency is Born</h4>
-                            </div>
-                            <div class="timeline-body"><p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p></div>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="{{asset('/assets/img/about/3.jpg')}}" alt="..." /></div>
-                        <div class="timeline-panel">
-                            <div class="timeline-heading">
-                                <h4>December 2015</h4>
-                                <h4 class="subheading">Transition to Full Service</h4>
-                            </div>
-                            <div class="timeline-body"><p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p></div>
-                        </div>
-                    </li>
-                    <li class="timeline-inverted">
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="{{asset('/assets/img/about/4.jpg')}}" alt="..." /></div>
-                        <div class="timeline-panel">
-                            <div class="timeline-heading">
-                                <h4>July 2020</h4>
-                                <h4 class="subheading">Phase Two Expansion</h4>
-                            </div>
-                            <div class="timeline-body"><p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p></div>
-                        </div>
-                    </li>
-                    <li class="timeline-inverted">
-                        <div class="timeline-image">
-                            <h4>
-                                Be Part
-                                <br />
-                                Of Our
-                                <br />
-                                Story!
-                            </h4>
-                        </div>
-                    </li>
-                </ul>
+
+                <div class="row h-100 align-items-center py-5">
+                  <div class="col-lg-6">
+                    <p class="lead text-muted mb-0">
+                        Dream Info-Tech LLC is a Omani start-up formed by a team of technologists and ex-bankers to serve the local enterprises in Banking Financial Services and Insurance (BFSI) sector.
+                    </p>
+                    <p class="lead text-muted mb-0">
+                        We help enterprises use innovation and emerging technologies to digitally transform their businesses through a range of best-in-class technology partners.
+                    </p>
+
+                    <p class="lead text-muted mb-0">
+                        With over 100 years of combined technical, functional and leadership skills in BFSI sector in GCC, we are a team of trusted individuals committed to make a difference in our proven field.
+                    </p>
+                  </div>
+                  <div class="col-lg-6 d-none d-lg-block"><img src="https://bootstrapious.com/i/snippets/sn-about/illus.png" alt="" class="img-fluid"></div>
+                </div>
+
+                <div class="row">
+        <h4>Vision</h4>
+        <ul>
+            <li style="list-style: none;" class="lead text-muted mb-0"><i class="fa fa-check" aria-hidden="true"></i> To become a one stop IT shop.</li>
+            <li style="list-style: none;" class="lead text-muted mb-0"><i class="fa fa-check" aria-hidden="true"></i> To provide cost effective IT services to enterprises.</li>
+        </ul>
+
+         
+    </div>
+
             </div>
         </section>
         @endsection()

@@ -21,7 +21,7 @@ class ContactUs extends Mailable
 
     public function build()
     {
-        return $this->subject('New Mail For Prosoft')->view('mail');
+        return $this->subject('New Mail For Dream Info-Tech')->view('mail');
         // return $this->markdown('arkdown')->with('body',$this->body);
     }
 

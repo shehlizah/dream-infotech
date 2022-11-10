@@ -41,10 +41,16 @@ Route::get('/contact', function () {
     return view('contact');
 });
 
-Route::post('/contact', function () {
-    return view('contact');
+// Route::post('/contact', function () {
+//     return view('contact');
+// });
+Route::get('/team2_detail', function () {
+    return view('team2_detail');
 });
 
+Route::get('/team1_detail', function () {
+    return view('team1_detail');
+});
 
 
 // if not given path above 
@@ -53,10 +59,10 @@ Route::post('/contact', function () {
 // Route::get('/contact', [ContactController::class,'getContact']);
 
 // Route::post('/contact', [ContactController::class,'saveContact']);
-Route::post('/contact',[ContactController::class,'saveContact'])->name('send.email');
+// Route::post('/contact',[ContactController::class,'saveContact'])->name('send.email');
 
-// Route::post('/contact',  function (Request $request) {
-//     Mail::send(new ContactMail($request));
-//     return redirect('/');
+Route::post('/contact',  function (Request $request) {
+    ContactController::saveContact($request)->name('send.email');
+    // return redirect('/');
     
-// });
+});

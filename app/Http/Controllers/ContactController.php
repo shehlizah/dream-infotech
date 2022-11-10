@@ -23,6 +23,7 @@ class ContactController extends Controller
             'email'=>'required|email',
             'phone'=>'required',
             'message'=>'required',
+            'company'=>'',
         ]);
     
         $email = "lizahmalikx@gmail.com";
@@ -33,6 +34,7 @@ class ContactController extends Controller
             'phone'=>$data['phone'],
             'email'=>$data['email'],
             'message'=>$data['message'],
+            'company'=>$data['company']
         ];
  
         Mail::to($email)->send(new ContactUs($body));;
